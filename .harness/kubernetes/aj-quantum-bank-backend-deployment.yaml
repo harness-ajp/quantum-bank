@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: quantum-bank-backend
-         image: 3
+        image: 3
         imagePullPolicy: "Always"
         resources:
           requests:
