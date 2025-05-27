@@ -1,1 +1,1 @@
-image: aj/quantum-bank-backend:<+pipeline.sequenceId>
+image: ajpahl1008/quantum-bank-backend:<+pipeline.sequenceId>
